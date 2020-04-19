@@ -2,5 +2,5 @@
 
 Solutions of the Google's Coding Competition Kickstart.
 
-##2020,Round B,Bike Tour
+## 2020,Round B,Bike Tour
 
