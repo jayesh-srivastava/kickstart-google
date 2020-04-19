@@ -2,7 +2,7 @@ package BikeTour2020;
 
 import java.util.*;
 import java.lang.*;
-public class Q1
+public class Solution
 {
     public static boolean isgreater(int a,int b,int c)
     {
