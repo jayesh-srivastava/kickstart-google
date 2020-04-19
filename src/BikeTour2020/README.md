@@ -25,9 +25,9 @@ Test set 1\
 Test set 2\
 3 ≤ N ≤ 100.
 
-#Sample
+Sample
 
-##Input
+Input
 
 4\
 3\
@@ -39,7 +39,7 @@ Test set 2\
 3\
 10 3 10
 
-##Output
+Output
   
 Case #1: 1\
 Case #2: 0\
