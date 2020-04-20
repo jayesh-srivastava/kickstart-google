@@ -34,9 +34,10 @@ Input
 3 300\
 999 999 999
 
-  
-Case #1: 2
-Case #2: 3
+Output
+
+Case #1: 2\
+Case #2: 3\
 Case #3: 0
 
   
