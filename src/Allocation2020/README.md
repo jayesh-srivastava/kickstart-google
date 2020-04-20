@@ -10,10 +10,10 @@ Output
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the maximum number of houses you can buy.
 
 Limits
-Time limit: 15 seconds per test set.
-Memory limit: 1GB.
-1 ≤ T ≤ 100.
-1 ≤ B ≤ 105.
+Time limit: 15 seconds per test set.\
+Memory limit: 1GB.\
+1 ≤ T ≤ 100.\
+1 ≤ B ≤ 105.\
 1 ≤ Ai ≤ 1000, for all i.
 
 Test set 1
