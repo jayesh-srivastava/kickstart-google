@@ -16,24 +16,22 @@ Memory limit: 1GB.\
 1 ≤ B ≤ 105.\
 1 ≤ Ai ≤ 1000, for all i.
 
-Test set 1
+Test set 1\
 1 ≤ N ≤ 100.
 
-Test set 2
+Test set 2\
 1 ≤ N ≤ 105.
 
 Sample
 
 Input
- 	
-Output
  
-3
-4 100
-20 90 40 90
-4 50
-30 30 10 10
-3 300
+3\
+4 100\
+20 90 40 90\
+4 50\
+30 30 10 10\
+3 300\
 999 999 999
 
   
