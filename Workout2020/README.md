@@ -49,21 +49,21 @@ Case #1: 50
 5 6\
 9 10 20 26 30\
 8 3\
-1 2 3 4 5 6 7 10\
+1 2 3 4 5 6 7 10
   
-Case #1: 2
-Case #2: 3
+Case #1: 2\
+Case #2: 3\
 Case #3: 1
   
-Sample #1
+Sample #1\
 In Case #1: Tambourine can add up to one session. The added sessions are marked in bold: 100 150 200 230. The difficulty is now 50.
 
-Sample #2
+Sample #2\
 In Case #1: Tambourine can add up to two sessions. The added sessions are marked in bold: 10 11 13 15 16 17 18. The difficulty is now 2.
 
 In Case #2: Tambourine can add up to six sessions. The added sessions are marked in bold: 9 10 12 14 16 18 20 23 26 29 30. The difficulty is now 3.
 
-In Case #3: Tambourine can add up to three sessions. The added sessions are marked in bold: 1 2 3 4 5 6 7 8 9 10. The difficulty is now 1. Note that Tambourine only added two sessions.
+In Case #3: Tambourine can add up to three sessions. The added sessions are marked in bold: 1 2 3 4 5 6 7 8 9 10. The difficulty is now 1.Note that Tambourine only added two sessions.
 
 Note #1: Only Sample #1 is a valid input for Test set 1. Consequently, Sample #1 will be used as a sample test set for your submissions.
 Note #2: Unlike previous editions, in Kick Start 2020, all test sets are visible verdict test sets, meaning you receive instant feedback upon submission.
