@@ -11,7 +11,7 @@ The first line of the input gives the number of test cases, T. T test cases foll
 #### Output
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the minimum difficulty possible after up to K additional training sessions are added.
 
-#### Limits\
+#### Limits
 Time limit: 20 seconds per test set.\
 Memory limit: 1GB.\
 1 ≤ T ≤ 100.\
@@ -20,36 +20,36 @@ For all other test cases, 2 ≤ N ≤ 300.\
 1 ≤ Mi ≤ 109.\
 Mi < Mi+1 for all i.
 
-Test set 1
+Test set 1\
 K = 1.
 
-Test set 2
+Test set 2\
 1 ≤ K ≤ 105.
 
-Samples
+#### Samples
 
-Input 1
+#### Input 1
  	
-Output 1
+#### Output 1
  
-1
-3 1
+1\
+3 1\
 100 200 230
   
 Case #1: 50
   
 
-Input 2
+#### Input 2
  	
-Output 2
+#### Output 2
  
-3
-5 2
-10 13 15 16 17
-5 6
-9 10 20 26 30
-8 3
-1 2 3 4 5 6 7 10
+3\
+5 2\
+10 13 15 16 17\
+5 6\
+9 10 20 26 30\
+8 3\
+1 2 3 4 5 6 7 10\
   
 Case #1: 2
 Case #2: 3
