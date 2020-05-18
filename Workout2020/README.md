@@ -1,23 +1,23 @@
-Problem
+#### Problem
 Tambourine has prepared a fitness program so that she can become more fit! The program is made of N sessions. During the i-th session, Tambourine will exercise for Mi minutes. The number of minutes she exercises in each session are strictly increasing.
 
 The difficulty of her fitness program is equal to the maximum difference in the number of minutes between any two consecutive training sessions.
 
 To make her program less difficult, Tambourine has decided to add up to K additional training sessions to her fitness program. She can add these sessions anywhere in her fitness program, and exercise any positive integer number of minutes in each of them. After the additional training session are added, the number of minutes she exercises in each session must still be strictly increasing. What is the minimum difficulty possible?
 
-Input
+#### Input
 The first line of the input gives the number of test cases, T. T test cases follow. Each test case begins with a line containing the two integers N and K. The second line contains N integers, the i-th of these is Mi, the number of minutes she will exercise in the i-th session.
 
-Output
+#### Output
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the minimum difficulty possible after up to K additional training sessions are added.
 
-Limits
-Time limit: 20 seconds per test set.
-Memory limit: 1GB.
-1 ≤ T ≤ 100.
-For at most 10 test cases, 2 ≤ N ≤ 105.
-For all other test cases, 2 ≤ N ≤ 300.
-1 ≤ Mi ≤ 109.
+#### Limits\
+Time limit: 20 seconds per test set.\
+Memory limit: 1GB.\
+1 ≤ T ≤ 100.\
+For at most 10 test cases, 2 ≤ N ≤ 105.\
+For all other test cases, 2 ≤ N ≤ 300.\
+1 ≤ Mi ≤ 109.\
 Mi < Mi+1 for all i.
 
 Test set 1
