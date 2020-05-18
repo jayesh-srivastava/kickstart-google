@@ -28,21 +28,16 @@ Test set 2\
 
 #### Samples
 
-#### Input 1
- 	
-#### Output 1
- 
+#### Input 1\
 1\
 3 1\
 100 200 230
-  
+
+#### Output 1\  
 Case #1: 50
   
 
-#### Input 2
- 	
-#### Output 2
- 
+#### Input 2\
 3\
 5 2\
 10 13 15 16 17\
@@ -50,7 +45,8 @@ Case #1: 50
 9 10 20 26 30\
 8 3\
 1 2 3 4 5 6 7 10
-  
+
+#### Output 2\
 Case #1: 2\
 Case #2: 3\
 Case #3: 1
